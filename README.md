@@ -10,7 +10,7 @@ Caymanテーマの詳細は[こちら](https://github.com/pages-themes/cayman)�
 
 ```
 git clone https://github.com/ohno/julia_in_physics_2024.git
-cd cayman-test
+cd julia_in_physics_2024
 bundle install
 bundle exec jekyll server
 ```
