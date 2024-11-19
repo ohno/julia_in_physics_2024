@@ -8,6 +8,7 @@ description: Juliaは2018年にバージョン1が公開されたオープンソ
 下記の要綱にて Julia in Physics 2024 を開催します. 皆様のご参加をお待ちしております.
 
 | **日時**     | 2024年12月14日(土) 13:00 - 19:00 |
+| **開催方式** | 対面 / Zoom ハイブリット |
 | **会場**     | 東京大学 本郷地区キャンパス(浅野キャンパス) 情報基盤センター(本館) 214 |
 | **最寄り駅** | 根津駅（千代田線） |
 | **申し込み** | [https://forms.gle/WTiyPtf97Q2LcDA59](https://forms.gle/WTiyPtf97Q2LcDA59) |
@@ -16,24 +17,64 @@ description: Juliaは2018年にバージョン1が公開されたオープンソ
 
 プログラムは予告なく変更される可能性があります. 
 
-| **13:00 - 13:10** | 開会のあいさつ・諸連絡 |
-| **13:10 - 14:10** | 招待講演 1（数値計算）|
+| **13:00 - 13:10** | 開会のあいさつ, 諸連絡 |
+| **13:10 - 14:10** | 招待講演１（数値計算）|
 |                   | 休憩 |
-| **14:10 - 15:10** | 招待講演 2（大規模計算） |
-|                   | 集合写真・休憩 |
-| **15:40 - 16:40** | 招待講演 3（テンソルネットワーク）|
+| **14:10 - 15:10** | [招待講演２](#招待講演２)（大規模計算） |
+|                   | 集合写真, 休憩 |
+| **15:40 - 16:40** | [招待講演３](#招待講演３)（テンソルネットワーク）|
 |                   | 休憩 |
-| **16:50 - 17:15** | 一般講演 1（テーマ：量子力学, 数値計算, 機械学習） |
-| **17:15 - 17:40** | 一般講演 2（テーマ：量子力学, 数値計算, 機械学習） |
+| **16:50 - 17:15** | 一般講演１（テーマ：量子力学, 数値計算, 機械学習） |
+| **17:15 - 17:40** | 一般講演２（テーマ：量子力学, 数値計算, 機械学習） |
 |                   | 休憩 |
-| **17:50 - 18:00** | 事例紹介 1（テーマ：不問） |
-| **18:00 - 18:10** | 事例紹介 2（テーマ：不問） |
-| **18:10 - 18:20** | 事例紹介 3（テーマ：不問） |
-| **18:20 - 18:30** | 事例紹介 4（テーマ：不問） |
+| **17:50 - 18:00** | 事例紹介１（テーマ：不問） |
+| **18:00 - 18:10** | 事例紹介２（テーマ：不問） |
+| **18:10 - 18:20** | 事例紹介３（テーマ：不問） |
+| **18:20 - 18:30** | 事例紹介４（テーマ：不問） |
 | **18:30 - 18:40** | 閉会のあいさつ |
 | **19:00 -**       | 懇親会 |
 
-要旨など詳細は追ってホームページ上で連絡します. 
+## 招待講演１
+
+TBA
+
+## 招待講演２
+
+| **題目** | Productivity meets performance: Julia for HPC | 
+| **氏名** | Valentin Churavy |
+| **所属** | Johannes-Gutenberg University Mainz & University of Augsburg |
+| **概要** | Julia is a flexible, friendly, fast programming language for scientific (and beyond) computations. This talk will discuss benefits and challenges of using Julia in HPC, particularly on  Fujitsu A64FX ARM-based processors. The flexibility of Julia makes it particularly well-suited to take advantage of the interesting combination of hardware features of A64fx, such as Scalable Vector Extension (SVE), and native support for reduced-precision floating-point arithmetic. I will discuss the compilation pipeline using  a performance study, demonstrating that Julia can match the performance of tuned libraries. |
+
+## 招待講演３
+
+| **題目** | 関数のテンソルトレイン表現をjuliaで入門 | 
+| **氏名** | 櫻井 理人 |
+| **所属** | 日本学術振興会特別研究員PD<br>東京大学大学院理学系研究科藤堂研究室 |
+| **概要** | テンソルネットワークはもともと量子状態の圧縮のために発展してきたが、応用数学の分野では幅広い関数系の圧縮へ応用されている。ここでは応用数学で発展した圧縮技術であるTensorCrossInterpolationに焦点を当て、Juliaで開発された[TensorCrossInterpolation.jl](https://github.com/tensor4all/TensorCrossInterpolation.jl)を扱う。TensorCrossInterpolation.jlとITensors.jlの使い方のデモを交えつつ、関数のテンソルトレイン表現と演算、その応用例についても触れる。 |
+
+## 一般講演１
+
+TBA
+
+## 一般講演２
+
+TBA
+
+## 事例紹介１
+
+TBA
+
+## 事例紹介２
+
+TBA
+
+## 事例紹介３
+
+TBA
+
+## 事例紹介４
+
+TBA
 
 # 参加登録
 
