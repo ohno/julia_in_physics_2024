@@ -1,5 +1,7 @@
 # Julia in Physics 2024
 
+This is the repository of the website for the **Julia in Physics 2024**. 
+
 ## ホームページ
 
 https://ohno.github.io/julia_in_physics_2024/ をご覧ください.
