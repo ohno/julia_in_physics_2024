@@ -37,21 +37,21 @@ description: Juliaは2018年にバージョン1が公開されたオープンソ
 
 ## 招待講演１
 
-| **題目** | TBA | 
+| **題目** | Juliaによる数値計算入門 |
 | **氏名** | 永井 佑紀 |
 | **所属** | 東京大学 情報基盤センター |
 | **概要** | TBA |
 
 ## 招待講演２
 
-| **題目** | Productivity meets performance: Julia for HPC | 
+| **題目** | Productivity meets performance: Julia for HPC |
 | **氏名** | Valentin Churavy |
 | **所属** | Johannes-Gutenberg University Mainz & University of Augsburg |
 | **概要** | Julia is a flexible, friendly, fast programming language for scientific (and beyond) computations. This talk will discuss benefits and challenges of using Julia in HPC, particularly on  Fujitsu A64FX ARM-based processors. The flexibility of Julia makes it particularly well-suited to take advantage of the interesting combination of hardware features of A64fx, such as Scalable Vector Extension (SVE), and native support for reduced-precision floating-point arithmetic. I will discuss the compilation pipeline using  a performance study, demonstrating that Julia can match the performance of tuned libraries. |
 
 ## 招待講演３
 
-| **題目** | 関数のテンソルトレイン表現をjuliaで入門 | 
+| **題目** | 関数のテンソルトレイン表現をjuliaで入門 |
 | **氏名** | 櫻井 理人 |
 | **所属** | 日本学術振興会特別研究員PD<br>東京大学大学院理学系研究科藤堂研究室 |
 | **概要** | テンソルネットワークはもともと量子状態の圧縮のために発展してきたが、応用数学の分野では幅広い関数系の圧縮へ応用されている。ここでは応用数学で発展した圧縮技術であるTensorCrossInterpolationに焦点を当て、Juliaで開発された[TensorCrossInterpolation.jl](https://github.com/tensor4all/TensorCrossInterpolation.jl)を扱う。TensorCrossInterpolation.jlとITensors.jlの使い方のデモを交えつつ、関数のテンソルトレイン表現と演算、その応用例についても触れる。 |
