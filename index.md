@@ -66,8 +66,7 @@ description: Juliaは2018年にバージョン1が公開されたオープンソ
 | **題目** | Machine Learning Estimation on the Trace of Inverse Dirac Operator using the Gradient Boosting Decision Tree Regression |
 | **氏名** | Benjamin J. Choi |
 | **所属** | 筑波大学計算科学研究センター |
-| **概要** | We present our preliminary results on the machine learning estimation of $\Tr \, M^{-n}$ from other observables with the gradient boosting decision tree regression, where $M$ is the Dirac operator. Ordinarily, $\Tr \, M^{-n}$ is obtained by linear CG solver for stochastic
-sources which needs considerable computational cost. Hence, we explore the possibility of cost reduction on the trace estimation by the adoption of gradient boosting decision tree algorithm. We also discuss effects of bias and its correction. |
+| **概要** | We present our preliminary results on the machine learning estimation of $\Tr \, M^{-n}$ from other observables with the gradient boosting decision tree regression, where $M$ is the Dirac operator. Ordinarily, $\Tr \, M^{-n}$ is obtained by linear CG solver for stochastic sources which needs considerable computational cost. Hence, we explore the possibility of cost reduction on the trace estimation by the adoption of gradient boosting decision tree algorithm. We also discuss effects of bias and its correction. |
 
 ## 一般講演３
 
