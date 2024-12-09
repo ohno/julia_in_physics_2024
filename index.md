@@ -3,6 +3,22 @@ title: Julia in Physics 2024
 description: Juliaは2018年にバージョン1が公開されたオープンソースの科学技術計算言語で, Fortranの様に高速でかつPythonの様に生産性の高い言語である. Julia は様々な分野において活用が始まっている. 本研究会では, 主に基礎科学においてのJulia の使用例などを議論する. また可視化, 高速計算, 微分方程式の数値解法, 統計・機械学習分野への応用例や実装例, パッケージ開発も議論の対象とする. 研究機関に所属する研究者だけでなく産業界での研究者, 学生などの積極的な参加を歓迎する.
 ---
 
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+      extensions: ["tex2jax.js"],
+      tex2jax: {
+          inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+          processEscapes: true,
+          processRefs: true,
+          processEnvironments: true
+      },
+      TeX: { equationNumbers: { autoNumber: "AMS" } }
+  });
+</script>
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
 # 概要
 
 下記の要綱にて Julia in Physics 2024 を開催します. 皆様のご参加をお待ちしております.
