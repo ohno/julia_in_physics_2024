@@ -108,6 +108,12 @@ description: Juliaは2018年にバージョン1が公開されたオープンソ
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3239.4161578803523!2d139.76245279855846!3d35.71598244584945!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188c2e4e11be15%3A0xdfb3af990c344d7d!2z44CSMTEzLTAwMzIg5p2x5Lqs6YO95paH5Lqs5Yy65byl55Sf77yS5LiB55uu77yR77yRIOaDheWgseWfuuebpOOCu-ODs-OCv-ODvCjmnKzppKgp!5e0!3m2!1sja!2sjp!4v1731924110887!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
+# 当日レポート
+
+Xのハッシュタグは[`#JuliaInPhysics2024`](https://twitter.com/hashtag/JuliaInPhysics2024)です.
+
+<a href="https://twitter.com/intent/tweet?button_hashtag=x&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #x</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # お問い合せ
 
 [こちらのフォーム](https://forms.gle/WTiyPtf97Q2LcDA59)に記載のメールアドレスよりご連絡ください.
