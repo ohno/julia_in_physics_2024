@@ -56,30 +56,31 @@ description: Juliaは2018年にバージョン1が公開されたオープンソ
 
 ## 一般講演１
 
-| **題目** | TBA |
-| **氏名** | TBA |
-| **所属** | TBA |
-| **概要** | TBA |
+| **題目** | 3D-BOS法による流体密度場の3次元再構成コードのJuliaでの開発 |
+| **氏名** | 赤嶺　政仁 |
+| **所属** | 東京大学大学院 工学系研究科 航空宇宙工学専攻 講師 |
+| **概要** | 超音速乱流ジェットなどの複雑な流体現象を、３次元・非接触で計測できる「3D-BOS法」のためのコード開発をJuliaで進めている。CUDA.jlでの高速化なども行っているので、その事例を紹介したい。（https://doi.org/10.1007/s00348-023-03672-1 で既報の内容を含む。コードはhttps://github.com/wavepackets/SchlierenReconstructions.jl で公開準備中） |
 
 ## 一般講演２
 
-| **題目** | TBA |
-| **氏名** | TBA |
-| **所属** | TBA |
-| **概要** | TBA |
+| **題目** | Machine Learning Estimation on the Trace of Inverse Dirac Operator using the Gradient Boosting Decision Tree Regression |
+| **氏名** | Benjamin J. Choi |
+| **所属** | 筑波大学計算科学研究センター |
+| **概要** | We present our preliminary results on the machine learning estimation of $\Tr \, M^{-n}$ from other observables with the gradient boosting decision tree regression, where $M$ is the Dirac operator. Ordinarily, $\Tr \, M^{-n}$ is obtained by linear CG solver for stochastic
+sources which needs considerable computational cost. Hence, we explore the possibility of cost reduction on the trace estimation by the adoption of gradient boosting decision tree algorithm. We also discuss effects of bias and its correction. |
 
 ## 一般講演３
 
-| **題目** | TBA |
-| **氏名** | TBA |
-| **所属** | TBA |
+| **題目** | Juliaによる変分法入門 |
+| **氏名** | 大野 周平 |
+| **所属** | 横浜市大学大学院 生命ナノシステム科学研究科 物質システム科学専攻 量子物理化学研究室 D2<br>理化学研究所 仁科加速器研究センター 少数多体系物理研究室 大学院生リサーチ・アソシエイト（JRA） |
 | **概要** | TBA |
 
 ## 一般講演４
 
 | **題目** | TBA |
-| **氏名** | TBA |
-| **所属** | TBA |
+| **氏名** | 富谷 昭夫 |
+| **所属** | 現代教養学部 数理科学科 情報数理科学専攻 専任講師 |
 | **概要** | TBA |
 
 # 参加登録
