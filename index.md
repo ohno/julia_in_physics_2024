@@ -112,8 +112,6 @@ description: Juliaは2018年にバージョン1が公開されたオープンソ
 
 Xのハッシュタグは[`#JuliaInPhysics2024`](https://twitter.com/hashtag/JuliaInPhysics2024)です.
 
-<a href="https://twitter.com/intent/tweet?button_hashtag=x&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #x</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 # お問い合せ
 
 [こちらのフォーム](https://forms.gle/WTiyPtf97Q2LcDA59)に記載のメールアドレスよりご連絡ください.
