@@ -1,0 +1,5 @@
+/* This file is included to _includes/head-custom.html */
+
+td:nth-child(2) {
+  word-break: break-all;
+}
