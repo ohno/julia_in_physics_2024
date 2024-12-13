@@ -118,7 +118,7 @@ description: Juliaは2018年にバージョン1が公開されたオープンソ
 
 # 当日レポート
 
-Xのハッシュタグは[`#JuliaInPhysics2024`](https://twitter.com/hashtag/JuliaInPhysics2024)です.
+Xのハッシュタグは[`#JuliaInPhysics2024`](https://twitter.com/hashtag/JuliaInPhysics2024)です. https://x.com/hashtag/JuliaInPhysics2024 よりご覧ください.
 
 # アンケート
 
