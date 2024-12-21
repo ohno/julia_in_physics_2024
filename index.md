@@ -122,7 +122,96 @@ Xのハッシュタグは[`#JuliaInPhysics2024`](https://twitter.com/hashtag/Jul
 
 # アンケート
 
-TBA
+総計181名の参加登録がありました. 登録時の事前アンケートの集計結果を公開していきます.
+
+## パッケージ利用状況
+
+| Package                  | users |
+| ------------------------ | ----- |
+| LinearAlgebra.jl         | 35    |
+| Plots.jl                 | 22    |
+| ITensors.jl              | 7     |
+| Makie.jl                 | 6     |
+| Statistics.jl            | 5     |
+| PyPlot.jl                | 5     |
+| DataFrames.jl            | 5     |
+| LsqFit.jl                | 4     |
+| Flux.jl                  | 4     |
+| CSV.jl                   | 4     |
+| Optim.jl                 | 5     |
+| Gaugefields.jl           | 4     |
+| Revise.jl                | 4     |
+| JLD2.jl                  | 4     |
+| BenchmarkTools.jl        | 4     |
+| LaTeXStrings.jl          | 3     |
+| StaticArrays.jl          | 3     |
+| SpecialFunctions.jl      | 3     |
+| CairoMakie.jl            | 3     |
+| FFTW.jl                  | 3     |
+| DifferentialEquations.jl | 3     |
+| Distributed.jl           | 3     |
+| Test.jl                  | 2     |
+| ITensorMPS.jl            | 2     |
+| JET.jl                   | 2     |
+| Graphs.jl                | 2     |
+| Lux.jl                   | 2     |
+| SparseIR.jl              | 2     |
+| PythonPlot.jl            | 2     |
+| MPI.jl                   | 2     |
+| QuadGK.jl                | 2     |
+| HDF5.jl                  | 2     |
+| Random.jl                | 2     |
+| Unitful.jl               | 2     |
+| LatticeQCD.jl            | 2     |
+
+その他:
+TerminalPager.jl, FastTransform.jl, CUDA.jl, Cthulhu.jl, Accessors.jl, OrdinaryDiffEq.jl, IJulia.jl, Primes.jl, Combinatorics., Infiltrator.jl, Associations.jl, GLM.jl, Yao.jl, PhysicalConstants.jl, Enzyme.jl, DataStructures.jl, ProgressBars.jl, IterTools.jl, FLoops.jl, Dates.jl, SharedArrays.jl, Debugger.jl, SQLite.jl, JuliaFormatter.jl, SymPy.jl, LanguageServer.jl, GMT.jl, DelimitedFiles.jl, Optimization.jl, Zygote.jl, Oxygen.jl, AbstractAlgebra.jl, Pkg.jl, LightGBM.jl, Pluto.jl, BioSequences.jl, Printf.jl, ArgParse.jl, ProgressMeter.jl, Distributions.jl, ComponentArrays.jl, Documented.jl, QuanticsTCI.jl, Measurements.jl, Formatting.jl, Missings.jl, SparseArrays.jl, MLJ.jl, GaussianProcesses.jl, Documenter.jl, GeneriLinearAlgebra, Nemo.jl, StatsBase.jl, NeuralPDE.jl, TensorCrossInterpolation.jl, OffsetArrays.jl, GLMakie.jl, OhMyREPL.jl, Wilsonloop.jl, Gnuplot.jl, DynamicalSystems.jl, LibSndFile.jl
+
+## 活用事例
+
+- https://tensor4all.org
+- https://github.com/tensor4all/TensorCrossInterpolation.jl
+- https://github.com/SpM-lab/SparseIR.jl
+- https://github.com/KskAdch/TopologicalNumbers.jl
+- https://journals.aps.org/prb/abstract/10.1103/PhysRevB.110.035303
+- https://www.nature.com/articles/s41563-024-02034-4
+- https://arxiv.org/abs/2410.07767
+- https://arxiv.org/abs/2312.15615
+- https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.043171
+- https://doi.org/10.1103/PhysRevResearch.6.013090
+- https://iopscience.iop.org/article/10.1088/1873-7005/acdff7
+- https://qiita.com/Dolphin7473/items/7fb97931cc877b61b89b
+- https://qiita.com/Dolphin7473/items/7a76367a0967e85d376f
+- https://arxiv.org/abs/2411.18170
+- http://id.nii.ac.jp/1001/00232256/
+- https://doi.org/10.1103/PhysRevLett.130.247102
+- https://shimizudan.github.io/20240831juliatokyo/
+- https://github.com/aviatesk/JET.jl
+- https://arxiv.org/abs/2411.14812
+- https://doi.org/10.1007/JHEP07(2024)033
+- https://github.com/yano404/CoupledChannelMethod
+- https://doi.org/10.1007/s00601-024-01900-w
+- https://doi.org/10.1103/PhysRevD.110.014020
+- https://github.com/machakann/DoubleExponentialFormulas.jl
+- https://gitlab.com/mnkmr/ParticleTrajectorySimulationsCore.jl
+- https://gitlab.com/mnkmr/PBasexInversion.jl
+- https://doi.org/10.21105/jcon.00068
+- https://juliarheology.github.io/RHEOS.jl/stable/
+- https://doi.org/10.1093/ptep/ptae109
+- https://doi.org/10.1093/ptep/pty088
+- https://doi.org/10.1007/JHEP12(2018)045
+- https://doi.org/10.1093/ptep/ptz107
+- https://doi.org/10.22323/1.363.0145
+- http://hdl.handle.net/2324/4474929
+- https://speakerdeck.com/hsugawa8651/julia-a-fresh-programming-language-for-freshmen-in-japanese
+- https://juliapackages.com/p/extendedkronigpennymatrix
+- https://doi.org/10.1007/s00348-023-03672-1
+- https://doi.org/10.2514/6.2024-2101
+- https://arxiv.org/abs/2405.06440
+- https://github.com/hydrocoast/VisClaw.jl
+- https://github.com/hydrocoast/CoordinateConverterGK.jl
+- https://qiita.com/hydrocoast/items/75c52f373eda734a3833
+- https://doi.org/10.1103/PhysRevB.109.224410
 
 # お問い合せ
 
