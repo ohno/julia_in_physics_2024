@@ -306,27 +306,17 @@ Juliaを活用した事例についての記事や学術論文のURLを改行区
 | Optim.jl                 | 5     |
 | PyPlot.jl                | 5     |
 | Statistics.jl            | 5     |
-| LsqFit.jl                | 4     |
 | BenchmarkTools.jl        | 4     |
 | CSV.jl                   | 4     |
 | Flux.jl                  | 4     |
 | Gaugefields.jl           | 4     |
 | JLD2.jl                  | 4     |
+| LsqFit.jl                | 4     |
 | Revise.jl                | 4     |
-| DifferentialEquations.jl | 3     |
-| Distributed.jl           | 3     |
-| FFTW.jl                  | 3     |
-| LaTeXStrings.jl          | 3     |
-| SpecialFunctions.jl      | 3     |
-| StaticArrays.jl          | 3     |
 
-登録数：2
-
-Test.jl, ITensorMPS.jl, JET.jl, Graphs.jl, Lux.jl, SparseIR.jl, PythonPlot.jl, MPI.jl, QuadGK.jl, HDF5.jl, Random.jl, Unitful.jl, LatticeQCD.jl
-
-登録数：1
-
-TerminalPager.jl, FastTransform.jl, CUDA.jl, Cthulhu.jl, Accessors.jl, OrdinaryDiffEq.jl, IJulia.jl, Primes.jl, Combinatorics., Infiltrator.jl, Associations.jl, GLM.jl, Yao.jl, PhysicalConstants.jl, Enzyme.jl, DataStructures.jl, ProgressBars.jl, IterTools.jl, FLoops.jl, Dates.jl, SharedArrays.jl, Debugger.jl, SQLite.jl, JuliaFormatter.jl, SymPy.jl, LanguageServer.jl, GMT.jl, DelimitedFiles.jl, Optimization.jl, Zygote.jl, Oxygen.jl, AbstractAlgebra.jl, Pkg.jl, LightGBM.jl, Pluto.jl, BioSequences.jl, Printf.jl, ArgParse.jl, ProgressMeter.jl, Distributions.jl, ComponentArrays.jl, Documented.jl, QuanticsTCI.jl, Measurements.jl, Formatting.jl, Missings.jl, SparseArrays.jl, MLJ.jl, GaussianProcesses.jl, Documenter.jl, GeneriLinearAlgebra, Nemo.jl, StatsBase.jl, NeuralPDE.jl, TensorCrossInterpolation.jl, OffsetArrays.jl, GLMakie.jl, OhMyREPL.jl, Wilsonloop.jl, Gnuplot.jl, DynamicalSystems.jl, LibSndFile.jl
+- 登録数 3<br>DifferentialEquations.jl, Distributed.jl, FFTW.jl, LaTeXStrings.jl, SpecialFunctions.jl, StaticArrays.jl
+- 登録数 2<br>Test.jl, ITensorMPS.jl, JET.jl, Graphs.jl, Lux.jl, SparseIR.jl, PythonPlot.jl, MPI.jl, QuadGK.jl, HDF5.jl, Random.jl, Unitful.jl, LatticeQCD.jl
+- 登録数 1<br>TerminalPager.jl, FastTransform.jl, CUDA.jl, Cthulhu.jl, Accessors.jl, OrdinaryDiffEq.jl, IJulia.jl, Primes.jl, Combinatorics., Infiltrator.jl, Associations.jl, GLM.jl, Yao.jl, PhysicalConstants.jl, Enzyme.jl, DataStructures.jl, ProgressBars.jl, IterTools.jl, FLoops.jl, Dates.jl, SharedArrays.jl, Debugger.jl, SQLite.jl, JuliaFormatter.jl, SymPy.jl, LanguageServer.jl, GMT.jl, DelimitedFiles.jl, Optimization.jl, Zygote.jl, Oxygen.jl, AbstractAlgebra.jl, Pkg.jl, LightGBM.jl, Pluto.jl, BioSequences.jl, Printf.jl, ArgParse.jl, ProgressMeter.jl, Distributions.jl, ComponentArrays.jl, Documented.jl, QuanticsTCI.jl, Measurements.jl, Formatting.jl, Missings.jl, SparseArrays.jl, MLJ.jl, GaussianProcesses.jl, Documenter.jl, GeneriLinearAlgebra, Nemo.jl, StatsBase.jl, NeuralPDE.jl, TensorCrossInterpolation.jl, OffsetArrays.jl, GLMakie.jl, OhMyREPL.jl, Wilsonloop.jl, Gnuplot.jl, DynamicalSystems.jl, LibSndFile.jl |
 
 ## Juliaに期待すること　Requests
 
@@ -343,7 +333,7 @@ Juliaに期待することがあればご記入ください.
 - アクセラレータ対応、必要ならホストデバイス間での明示的データコピーを手で書いてでも
 - コミュニティの規模を大きくする。より良いデベロッパーツールの開発
 - デフォルトでbigfloatが利用できるため，多倍長精度数値計算がより一般的に広がって欲しい．
-- Fortranに変わる計算科学プログラミングとして
+- Fortranに代わる計算科学プログラミングとして
 - 量子多体系のモンテカルロ計算、特にGPU上で加速するコードを作成したい。
 - 量子多体系（スピン、ボソン、フェルミオン）のあまり重くないシミュレーションが手軽にできるパッケージ、リー代数やC*代数の計算（既約表現を求めたり、代数上での最適化など）ができるパッケージ
 - 量子コンピュータで簡単な物理計算ができること。
